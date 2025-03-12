@@ -12,7 +12,6 @@ In this project, I aim to analyze the impact of Twitter users' opinions on Bitco
 3. [Usage](#usage)
 4. [Sample Results](#sample-results)
 5. [License](#license)
-6. [Contact](#contact)
 
 ## Project Description
 
