@@ -5,14 +5,6 @@ Social media platforms such as Twitter have become a powerful source of real-tim
 
 In this project, I aim to analyze the impact of Twitter users' opinions on Bitcoin price predictions through Natural Language Processing (NLP) and Sentiment Analysis. By leveraging Twitter data and machine learning techniques, I explore the relationship between market sentiment and cryptocurrency fluctuations.
 
-This project uses Twitter API for data collection and applies Python-based NLP techniques for sentiment classification. Key components of the analysis include:
-
-Web scraping & data collection using the Twitter API.
-Preprocessing and cleaning of tweet text data.
-Sentiment analysis to classify tweets as positive, negative, or neutral.
-Visualization of sentiment trends and their correlation with BTC price movements.
-The ultimate goal of this analysis is to determine whether social media sentiment can serve as an indicator for Bitcoin price fluctuations.
-
 ## Table of Contents
 
 1. [Project Description](#project-description)
@@ -95,5 +87,3 @@ After running the analysis, you will get results like:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-This README provides an overview of your project in English, including instructions for setup, usage, and sample outcomes. If you want to change the project name or need further modifications, feel free to let me know!
