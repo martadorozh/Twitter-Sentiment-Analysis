@@ -1,11 +1,17 @@
 # TwitterAnalysis
 BTC analysis using Twitter &amp; NLP
 
-Social media such as Facebook, Instagram, or Twitter are places where many people spend some of their free time, writing various messages, uploading photos and videos. The profiles of individual users and the content they publish are the source of a huge amount of information that can be used as data for various analyzes and research. Cryptocurrencies are similar to the most famous currencies in the sense that they are constructed under the influence of public opinion, whether they are factual or not.
+Social media platforms such as Twitter have become a powerful source of real-time information and opinions. Users frequently express their thoughts on various topics, including cryptocurrencies, which are highly influenced by public sentiment, whether fact-based or not. Given the volatility of cryptocurrencies, analyzing public sentiment can provide valuable insights into price trends.
 
-In this project, I wanted to analyze the impact of Twitter users' statements on cryptocurrency price predictions through natural language processing using sentiment analysis.
+In this project, I aim to analyze the impact of Twitter users' opinions on Bitcoin price predictions through Natural Language Processing (NLP) and Sentiment Analysis. By leveraging Twitter data and machine learning techniques, I explore the relationship between market sentiment and cryptocurrency fluctuations.
 
-This project performs web scraping on Twitter data to analyze tweets using the Twitter API. The project utilizes Python libraries for data collection, processing, analysis, and visualization. The goal is to explore topics, trends, and sentiment analysis of tweets.
+This project uses Twitter API for data collection and applies Python-based NLP techniques for sentiment classification. Key components of the analysis include:
+
+Web scraping & data collection using the Twitter API.
+Preprocessing and cleaning of tweet text data.
+Sentiment analysis to classify tweets as positive, negative, or neutral.
+Visualization of sentiment trends and their correlation with BTC price movements.
+The ultimate goal of this analysis is to determine whether social media sentiment can serve as an indicator for Bitcoin price fluctuations.
 
 ## Table of Contents
 
